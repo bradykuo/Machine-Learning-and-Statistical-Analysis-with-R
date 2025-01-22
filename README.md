@@ -247,4 +247,4 @@ This project is available for academic and educational purposes.
 
 ## Reference
 
-**大數據分析與資料挖礦** 作者：簡禎富, 許嘉裕
+簡禎富、許嘉裕（2018），**大數據分析與資料挖礦**
