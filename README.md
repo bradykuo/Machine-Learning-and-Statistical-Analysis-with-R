@@ -1,6 +1,8 @@
 # Machine Learning and Statistical Analysis with R
 
-This repository contains a comprehensive collection of R scripts for various machine learning and statistical analysis techniques. The project includes implementations of decision trees, neural networks, regression analysis, time series forecasting, and more.
+This repository contains a comprehensive collection of R scripts for various machine learning and statistical analysis techniques. The project includes implementations of decision trees, neural networks, regression analysis, time series forecasting, and more.<br>
+<br>
+（成大統計系｜巨量資料分析｜作業）
 
 ## Table of Contents
 
